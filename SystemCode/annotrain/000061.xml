@@ -1,0 +1,35 @@
+<annotation>
+  <folder>VOC2014_instance/eating</folder>
+  <filename>000061.jpeg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>628</width>
+    <height>314</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>eating</name>
+    <bndbox>
+      <xmin>146.0</xmin>
+      <ymin>3.0</ymin>
+      <xmax>321.0</xmax>
+      <ymax>212.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>eating</name>
+    <bndbox>
+      <xmin>351.0</xmin>
+      <ymin>3.0</ymin>
+      <xmax>550.0</xmax>
+      <ymax>247.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

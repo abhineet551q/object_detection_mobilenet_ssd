@@ -1,0 +1,25 @@
+<annotation>
+  <folder>VOC2014_instance/drinking</folder>
+  <filename>000122.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+  </source>
+  <size>
+    <width>866</width>
+    <height>1360</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>drinking</name>
+    <bndbox>
+      <xmin>111.0</xmin>
+      <ymin>60.0</ymin>
+      <xmax>789.0</xmax>
+      <ymax>1186.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>
